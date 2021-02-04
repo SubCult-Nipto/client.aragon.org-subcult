@@ -1,7 +1,7 @@
 # client.aragon.org-subcult
 
 Tenderly:
-dashboard.tenderly.co/SubCult
+https://dashboard.tenderly.co/SubCult
 
 Discord: 
 https://discord.gg/tCQ7eRYV
