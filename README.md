@@ -3,6 +3,9 @@
 Discord: 
 https://discord.gg/tCQ7eRYV
 
+Medium:
+https://subcult.medium.com/
+
 D-Live:
 https://dlive.tv/SubCult
 
